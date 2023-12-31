@@ -1,5 +1,3 @@
-# luqasz_tworzydlo
-
 # Hello, I'm Lukasz Tworzydlo!
 
 ## Welcome to My GitHub Profile!
@@ -16,7 +14,7 @@ Here's a quick rundown of the programming languages, tools, and technologies I'v
 
 - **Programming Languages**: JAVA, C#, PHP, Dart, Python, R, Kotlin, C++, JavaScript, Scilab
 - **Frameworks/Technologies**: C# (.NET WinForms, ASP.NET, Unity), PHP (Hack, HTML, CSS), JavaScript (Node.js, React)
-- **Tools**: UML, Markdown, Git, Docker
+- **Tools**: UML (incl. StarUML), Markdown, Git, Docker
 - **Databases**: SQL Server (incl. Transact SQL), MySQL, MariaDB, SQLite, PostgreSQL
 
 **Learning & Growth**: I believe in lifelong learning and continuous improvement. Currently, I'm diving deeper into AI technologies
