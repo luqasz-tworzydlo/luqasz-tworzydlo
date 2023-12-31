@@ -32,4 +32,4 @@ Thank you for visiting my profile. I hope you find my projects insightful and in
 
 ---
 
-"[...] a man's wisdom maketh his face to shine [...]" - [Ec82]
+"[...] a man's wisdom maketh his face to shine [...]" - Ec82
