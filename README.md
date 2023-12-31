@@ -12,12 +12,13 @@ My journey has taken me through a diverse set of projects, from building a simpl
 ## Skills and Technologies
 Here's a quick rundown of the programming languages, tools, and technologies I've worked with:
 
-- **Programming Languages**: JAVA, C#, PHP, Dart, Python, R, Kotlin, C++, JavaScript, Scilab
+- **Programming Languages**: JAVA, C#, PHP, Dart, Python, R, Kotlin, C++, JavaScript, TypeScript, Scilab
 - **Frameworks/Technologies**: C# (.NET WinForms, ASP.NET, Unity), PHP (Hack, HTML, CSS), JavaScript (Node.js, React)
-- **Tools**: UML (incl. StarUML), Markdown, Git, Docker
-- **Databases**: SQL Server (incl. Transact SQL), MySQL, MariaDB, SQLite, PostgreSQL
+- **Tools**: UML (incl. StarUML), Markdown, Git, Docker, Netacad Cisco Packet Tracer, Figma (UI & UX)
+- **Data Analytics**: IBM SPSS, MS Excel, Tableau Public, MS Power BI
+- **Databases**: SQL Server (incl. Transact SQL, MS Access), MySQL, MariaDB, SQLite, PostgreSQL
 
-**Learning & Growth**: I believe in lifelong learning and continuous improvement. Currently, I'm diving deeper into AI technologies
+**Learning & Growth**: I believe in lifelong learning and continuous improvement. Currently, I'm diving deeper into AI technologies.
 
 ### Let's Connect!
 
