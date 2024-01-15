@@ -26,7 +26,7 @@ Here's a quick rundown of the programming languages, tools, and technologies I'v
 I'm always open to connecting with fellow developers, sharing ideas, and collaborating on exciting projects. Here's how you can reach me:
 
 - **LinkedIn**: [available soon]
-- **Email**: [luqatwo@gmail.com](luqatwo@gmail.com)
+- **Email**: [luqatwo@gmail.com](mailto:luqatwo@gmail.com)
 
 Thank you for visiting my profile. I hope you find my projects insightful and inspiring. Let's code a better world together!
 
