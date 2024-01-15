@@ -10,13 +10,14 @@ My journey has taken me through a diverse set of projects, from building a simpl
 - **Portfolio Projects**: I've curated a collection of my best work, showcasing a variety of skills and challenges. You'll find everything from a console game, through mobile applications and Full Stack project. Check out the [ADV-LUQASZ_PortfolioProjects](https://github.com/luqasz-tworzydlo/ADV-LUQASZ_PortfolioProjects) repository for a detailed look!
 
 ## Skills and Technologies
+
 Here's a quick rundown of the programming languages, tools, and technologies I've worked with:
 
 - **Programming Languages**: JAVA, C#, PHP, Dart, Python, R, Kotlin, C++, JavaScript, TypeScript, Scilab
 - **Frameworks/Technologies**: C# (.NET WinForms, ASP.NET, Unity), PHP (Hack, HTML, CSS), JavaScript (Node.js, React)
-- **Tools**: UML (incl. StarUML), Markdown, Git, Docker, Netacad Cisco Packet Tracer, Figma (UI & UX)
+- **Tools**: UML (incl. StarUML), Markdown, Git, Zabbix Server, Docker (incl. docker-compose, container), Kind (incl. Kubernetes, kubectl, cluster), SSH (incl. ssh server, ssh client), Netacad Cisco Packet Tracer, Figma (UI & UX)
 - **Data Analytics**: IBM SPSS, MS Excel, Tableau Public, MS Power BI
-- **Databases**: SQL Server (incl. Transact SQL, MS Access), MySQL, MariaDB, SQLite, PostgreSQL
+- **Databases**: SQL Server (Transact SQL), MySQL (PL/SQL), MariaDB, SQLite, PostgreSQL (incl. pgAdmin4)
 
 **Learning & Growth**: I believe in lifelong learning and continuous improvement. Currently, I'm diving deeper into AI technologies.
 
@@ -25,7 +26,7 @@ Here's a quick rundown of the programming languages, tools, and technologies I'v
 I'm always open to connecting with fellow developers, sharing ideas, and collaborating on exciting projects. Here's how you can reach me:
 
 - **LinkedIn**: [available soon]
-- **Email**: [available soon]
+- **Email**: [luqatwo@gmail.com](luqatwo@gmail.com)
 
 Thank you for visiting my profile. I hope you find my projects insightful and inspiring. Let's code a better world together!
 
